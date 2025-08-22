@@ -3,5 +3,6 @@
 ---
 
 
+这里是 pjykk/lequivalent 的笔记。
 
-hello, obsidian digital garden.
+不定期更新 数学/物理/信息学竞赛 内容。
