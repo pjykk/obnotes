@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oi/maths/poly/fft-and-ntt/"}
+{"dg-publish":true,"permalink":"/oi/maths/poly/fft-and-ntt/","tags":["gardenEntry"]}
 ---
 
 
