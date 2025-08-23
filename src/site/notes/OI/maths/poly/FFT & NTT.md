@@ -36,7 +36,8 @@ $$C(x_k)=A(x_k)B(x_k)$$
 
 然后再进行插值即可得到 $C$ 的系数表示。
 
-```ad-attention
+```ad-attention 
+title: 注意
 上面的 $n$ 为 $C$ 的次数 $+1$。
 ```
 
@@ -118,3 +119,4 @@ $$A(\omega_n^k)=\sum\limits_{j=0}^{n-1}a_j\omega_n^{jk}$$
 
 ### 3. 代码实现
 
+To be finished
